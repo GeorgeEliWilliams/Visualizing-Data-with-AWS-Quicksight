@@ -20,6 +20,8 @@ Upload Data Files:
 * Click on the bucket name you created.
 * Click on "Upload" and add the Netflix.csv and manifest.json files.
 * Click "Upload" to confirm.
+![files uploaded](https://github.com/GeorgeEliWilliams/Visualizing-Data-with-AWS-Quicksight/assets/103576454/4710eb49-732c-4878-b241-67ab03d539ac)
+
 
 ### 2. Configuring AWS QuickSight
 * Sign Up for QuickSight:
