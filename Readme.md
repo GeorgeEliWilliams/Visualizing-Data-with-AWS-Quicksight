@@ -45,3 +45,16 @@ Create a Data Source:
 * Click "Save & visualize" to import the data into QuickSight.
 
 ### 4. Creating Visualizations
+* Use the drag-and-drop interface to create visualizations such as bar charts, line charts, and tables.
+* Customize the visualizations by adjusting fields, filters, and formatting options.
+* Number of Movies/TV Shows by Release Year
+* Number of Movies vs TV Shows by Release Year
+* Number of Thrillers, TV Comedies, Action & Adventure
+* Number of Thrillers, TV Comedies, Action & Adventure (released ≥ 2015)
+* Number of Titles Added by Date
+
+#### Publish Dashboard:
+* Once your visualizations are ready, click "Share" and then "Publish dashboard."
+* Provide a name and description for the dashboard.
+* Configure sharing settings and click "Publish."
+
